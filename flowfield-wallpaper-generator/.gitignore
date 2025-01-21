@@ -1,0 +1,17 @@
+# Ignore Rust build files
+/target/
+/**/*.rs.bk
+
+# Ignore IDE/editor specific files
+/.idea/
+/.vscode/
+/*.swp
+*.swo
+*.bak
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore output directory
+flowfield-wallpaper-generator/
